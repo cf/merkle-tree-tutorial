@@ -1,0 +1,21 @@
+{
+  "name": "merkle-tree-tutorial",
+  "version": "1.0.0",
+  "description": "merkle tree tutorial",
+  "main": "index.js",
+  "scripts": {
+    "ex1": "node src/example1.js",
+    "ex2": "node src/example2.js",
+    "ex3": "node src/example3.js",
+    "ex4": "node src/example4.js",
+    "ex5": "node src/example5.js",
+    "ex6": "node src/example6.js",
+    "ex7": "node src/example7.js",
+    "ex8": "node src/example8.js"
+  },
+  "author": "cf",
+  "license": "MIT",
+  "dependencies": {
+    "sha.js": "^2.4.11"
+  }
+}
